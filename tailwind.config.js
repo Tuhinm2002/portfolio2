@@ -11,7 +11,11 @@ module.exports = {
   darkMode: "class",
   theme: {
     // rest of the code
-    // extend:{}
+    extend:{
+      colors : {
+        'bg-gray-slate':'#F5F5F5'
+      }
+    }
   },
   plugins: [addVariablesForColors],
 };
