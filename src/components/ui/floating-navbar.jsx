@@ -13,6 +13,9 @@ export const FloatingNav = ({
   navItems,
   className
 }) => {
+  const { scrollYProgress } = useScroll();
+
+  const [visible, setVisible] = useState(true);
 
   return (
     (<AnimatePresence mode="wait">
