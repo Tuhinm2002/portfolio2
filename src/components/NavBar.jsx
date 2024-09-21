@@ -13,12 +13,12 @@ export function FloatingNavDemo() {
   const navItems = [
     {
       name: "Home",
-      link: "/",
+      link: "https://portfolio-theta-peach-55.vercel.app/",
       icon: <IconHome className="h-4 w-4 text-neutral-500 dark:text-white" />,
     },
     {
       name: "Resume",
-      link: "#card",
+      link: "https://drive.google.com/file/d/1trNRZKAIogBQCxAsq8hNYBJN4tGA02HF/view?usp=sharing",
       icon: <IconUser className="h-4 w-4 text-neutral-500 dark:text-white" />,
     },
     {
