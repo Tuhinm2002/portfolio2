@@ -24,7 +24,7 @@ export function FloatingDockDemo() {
       icon: (
         <IconBrandLinkedin className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "www.linkedin.com/in/tuhinm2002",
+      href: "https://www.linkedin.com/in/tuhinm2002",
     },
     {
       title: "GMail",

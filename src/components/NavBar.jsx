@@ -23,7 +23,7 @@ export function FloatingNavDemo() {
     },
     {
       name: "Contact",
-      link: "www.linkedin.com/in/tuhinm2002",
+      link: "https://www.linkedin.com/in/tuhinm2002",
       icon: (
         <IconMessage className="h-4 w-4 text-neutral-500 dark:text-white" />
       ),

@@ -2,7 +2,7 @@
 import { ThreeDCardDemo } from "@/components/Card";
 import { FloatingNavDemo } from "@/components/NavBar";
 import { CardHoverEffectDemo } from "@/components/Projects";
-import { TextGenerateEffectDemo } from "@/components/Skills";
+import { LinkPreviewDemo } from "@/components/Skills";
 
 
 export default function Home() {
@@ -11,7 +11,7 @@ export default function Home() {
    <FloatingNavDemo></FloatingNavDemo>
    <ThreeDCardDemo></ThreeDCardDemo>
    <CardHoverEffectDemo></CardHoverEffectDemo>
-   <TextGenerateEffectDemo></TextGenerateEffectDemo>
+   <LinkPreviewDemo></LinkPreviewDemo>
    </div>
   );
 }
