@@ -32,6 +32,6 @@ export const projects = [
     title: "Portfolio",
     description:
       "My portfolio website made by using Next js,react js,Aceternity UI",
-    link: "https://meta.com",
+    link: "https://github.com/Tuhinm2002/portfolio2",
   },
 ];
